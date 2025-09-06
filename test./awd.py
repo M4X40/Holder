@@ -1,3 +1,4 @@
 ## Sample script
 
-print('v2')
+def main():
+  print('v2')
