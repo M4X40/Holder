@@ -1,4 +1,4 @@
 ## Sample script
 
 def main():
-  print('v2')
+  print('v1')
